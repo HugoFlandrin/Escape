@@ -43,9 +43,7 @@ Inspired by real-life **escape rooms**, **Escape** offers an immersive and unset
 ## 🎯 **Future Improvements**  
 - Add multiple endings based on the photos discovered  
 - Implement voice-over narration for found memories  
-- Expand the game to include multiple escape rooms  
-- Add VR support for deeper immersion  
-- Improve the AI of the antagonist for late-game interactions  
+- Expand the game to include multiple escape rooms
 
 ## 🧑‍💻 **Authors**  
 Developed as part of a creative learning project at **Ynov Lyon**.  
