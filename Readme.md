@@ -34,7 +34,7 @@ Inspired by real-life **escape rooms**, **Escape** offers an immersive and unset
 
 ## 🚀 **Installation and Setup**
 
-⚠️ **Escape is still under development and not yet available for download.** ⚠️
+📦 A playable version is available on [itch.io](https://hugoflandrin.itch.io/escape). Simply download and run the `.exe` file to play!
 
 ## 🛠️ **Technologies Used**  
 - **Engine**: Unreal Engine 5  
