@@ -1,59 +1,59 @@
 # 🎮 **Escape**  
-**A psychological thriller developed with Unreal Engine 5**
+**Un thriller psychologique développé avec Unreal Engine 5**
 
 <img src="img/Logo.png" width="200" />
 
-## 📜 **Project Description**  
-**Escape** is a first-person thriller game developed in **Unreal Engine 5**, blending exploration, tension, and puzzles.  
-You wake up in a dark, unfamiliar room. The air is heavy, and the silence, oppressive. Something’s wrong — and the only thing at your side is a flickering flashlight.
+## 📜 **Description du projet**  
+**Escape** est un thriller à la première personne développé avec **Unreal Engine 5**, mêlant exploration, tension et énigmes.  
+Vous vous réveillez dans une pièce sombre et inconnue. L'air est lourd, et le silence, oppressant. Quelque chose ne va pas — et la seule chose à vos côtés est une lampe torche vacillante.
 
-Your goal?  
-**Escape.**  
-But nothing is that simple...
+Votre objectif ?  
+**S'échapper.**  
+Mais rien n'est aussi simple...
 
-Inspired by real-life **escape rooms**, **Escape** offers an immersive and unsettling experience where every detail matters. You'll need to solve disturbing puzzles, piece together fragmented memories through photographs, and uncover the reason behind your captivity — all before it's too late. Don’t take your time...
+Inspiré des **escape games** réels, **Escape** propose une expérience immersive et angoissante où chaque détail compte. Vous devrez résoudre des énigmes troublantes, reconstituer des souvenirs fragmentés à travers des photographies, et découvrir la raison de votre captivité — avant qu'il ne soit trop tard. Ne perdez pas de temps...
 
 <img src="img/Ambiance.png" width="500" />
 
-## 🧩 **Main Features**
+## 🧩 **Fonctionnalités principales**
 
-1. **Immersive First-Person Exploration**  
-   - Discover your surroundings from a **first-person perspective**, brought to life with highly realistic visuals using **Unreal Engine 5**.  
-   - Equipped only with a **flashlight**, explore a dark, oppressive room that hides more than it reveals.
+1. **Exploration immersive à la première personne**  
+   - Découvrez votre environnement à la **première personne**, porté par des visuels très réalistes grâce à **Unreal Engine 5**.  
+   - Équipé seulement d'une **lampe torche**, explorez une pièce sombre et oppressante qui cache plus qu'elle ne révèle.
 
-2. **Puzzle-Based Progression**  
-   - Solve a series of **escape room-style puzzles** to uncover hidden clues.  
-   - Each puzzle you solve reveals a piece of your **story**, bringing you closer to **freedom**. 
+2. **Progression basée sur les énigmes**  
+   - Résolvez une série d'**énigmes façon escape game** pour découvrir des indices cachés.  
+   - Chaque énigme résolue révèle une partie de votre **histoire**, vous rapprochant de la **liberté**.
 
-3. **Time Pressure Mechanic**  
-   - You have a **limited amount of time** to escape — though you're never explicitly told how much.  
-   - Once time runs out, **escape is no longer an option**...
+3. **Mécanique de pression temporelle**  
+   - Vous disposez d'un **temps limité** pour vous échapper — bien qu'on ne vous dise jamais explicitement combien.  
+   - Une fois le temps écoulé, **s'échapper n'est plus une option**...
 
-4. **Atmosphere Above All**   
-   - The tension builds with every second as mystery and fear close in.
+4. **L'atmosphère avant tout**   
+   - La tension monte à chaque seconde, entre mystère et peur grandissante.
 
-## 🚀 **Installation and Setup**
+## 🚀 **Installation et mise en route**
 
-📦 A playable version is available on [itch.io](https://hugoflandrin.itch.io/escape). Simply download and run the `.exe` file to play!
+📦 Une version jouable est disponible sur [itch.io](https://hugoflandrin.itch.io/escape). Il suffit de télécharger et lancer le fichier `.exe` pour jouer !
 
-## 🛠️ **Technologies Used**  
-- **Engine**: Unreal Engine 5  
-- **Languages**: Blueprint / C++ (Unreal)
+## 🛠️ **Technologies utilisées**  
+- **Moteur** : Unreal Engine 5  
+- **Langages** : Blueprint / C++ (Unreal)
 
-## 🎯 **Future Improvements**  
-- Add multiple endings based on the photos discovered  
-- Implement voice-over narration for found memories  
-- Expand the game to include multiple escape rooms
+## 🎯 **Améliorations futures**  
+- Ajouter plusieurs fins selon les photos découvertes  
+- Mettre en place une narration en voix off pour les souvenirs retrouvés  
+- Étendre le jeu à plusieurs escape rooms
 
-## 🧑‍💻 **Authors**  
-Developed as part of a creative learning project at **Ynov Lyon**.  
-   - Ethan Romano — 3D Artist & Project Manager  
-   - Evan Jacquier — 3D Artist  
-   - Joemy Musichini — 3D Artist  
-   - Ryan Amarat — 3D Artist  
-   - Ornella Capezzone — Creative Design  
-   - [Hugo Flandrin](https://github.com/HugoFlandrin) — Developer  
-   - [Sebastien Chevallier](https://github.com/SebastienChevallier) — Developer  
-   - [Orion Maillot](https://github.com/OrianMA) — Developer  
+## 🧑‍💻 **Auteurs**  
+Développé dans le cadre d'un projet pédagogique créatif à **Ynov Lyon**.  
+   - Ethan Romano — Artiste 3D & Chef de projet  
+   - Evan Jacquier — Artiste 3D  
+   - Joemy Musichini — Artiste 3D  
+   - Ryan Amarat — Artiste 3D  
+   - Ornella Capezzone — Direction créative  
+   - [Hugo Flandrin](https://github.com/HugoFlandrin) — Développeur  
+   - [Sebastien Chevallier](https://github.com/SebastienChevallier) — Développeur  
+   - [Orion Maillot](https://github.com/OrianMA) — Développeur  
 
-### ⛓️ **Can You Escape?**
+### ⛓️ **Parviendrez-vous à vous échapper ?**
